@@ -1,16 +1,16 @@
 module.exports = [
   {
-    name: "Alan Turing",
+    lastname: "Turing",
     program: "FE",
     enrolled: true
   },
   {
-    name: "Charles Babbage",
+    lastname: "Babbage",
     program: "BE",
     enrolled: false
   },
   {
-    name: "Ada Lovelace",
+    lastname: "Lovelace",
     program: "BE",
     enrolled: true
   }
