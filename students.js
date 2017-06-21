@@ -14,4 +14,4 @@ module.exports = [
     program: "BE",
     enrolled: true
   }
-]
+];
